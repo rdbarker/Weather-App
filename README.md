@@ -1,3 +1,3 @@
-# Weather-App
+# Weather App
 
 Coded for FreeCodeCamp.com
